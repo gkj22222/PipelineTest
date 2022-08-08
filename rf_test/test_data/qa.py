@@ -4,3 +4,4 @@ import sys
 importlib.reload(sys)
 
 testvar1 = "makabaka"
+testvar2 = "dicidici"
